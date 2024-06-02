@@ -1,8 +1,5 @@
 # review_torch
 
-
-# PyTorch 연산 및 모델링 연습
-
 PyTorch를 사용한 기초 연산 및 간단한 모델링 연습을 위한 주피터 노트북
 
 ## 개요
